@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "providers": [
+    {
+      "id": "rambo",
+      "name": "Rambo IPTV",
+      "host": "http://ramboiptv.net:8080",
+      "active": true,
+      "priority": 1
+    }
+  ]
+}
